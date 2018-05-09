@@ -1,0 +1,24 @@
+{
+  "name": "html-webpack-include-file-plugin",
+  "version": "0.0.1",
+  "description": "Include file directly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "include",
+    "inline"
+  ],
+  "author": "Fancy <fancyboynet@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancyboynet/html-webpack-include-file-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fancyboynet/html-webpack-include-file-plugin/issues"
+  },
+  "homepage": "https://github.com/fancyboynet/html-webpack-include-file-plugin#readme"
+}
